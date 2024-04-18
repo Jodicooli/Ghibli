@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/9a5fcad2-429e-413b-a86b-23cb7cccdf4a/resourceGroups/G9GhibliGroup/providers/Microsoft.Web/sites/G9Ghibli",
+    "appService.deploySubpath": "."
+}
